@@ -1,16 +1,50 @@
+<!--Apresentação-->
 
-### Seja bem vindo(a) Sea ​​Bienvenido(a)✨
+# Hello world!
+Seja bem vindo(a) Sea ​​Bienvenido(a) 🖤
+
+<p>
+✨ Estudante de ADS e Cibersegurança <br>
+📚 PT-BR (Nativo)/ Espanhol (Básico)/ Inglês (Básico) <br>
+🤓 Facilidade em aprender qualquer tipo de ferramenta ou linguagens <br>
+👁 Objetivo de carreias que pretendo seguir: Analista de cibersegurança ou Desenvolvedor Web <br>
+</p>
+
+<!--Detalhes-->
+
+<details>
+<summary>🐱‍🏍 More about me</summary>
+
 <body>
     <div class="center">
-        <p><b>PT-BR:</b> Sou um estudante dedicado de ADS e algumas áreas na cibersegurança, e meu amor pela programação e resolução de problemas me trouxe até aqui. Desde o primeiro dia, tenho explorado e aprendido de maneira constante, absorvendo conhecimentos práticos e aprimorando minhas habilidades técnicas.</p>
-        <p><b>ES:</b> Soy un estudiante dedicado de ADS y algunas áreas de ciberseguridad, y mi amor por la programación y la resolución de problemas me ha traído hasta aquí. Desde el primer día, he estado explorando y aprendiendo constantemente, absorbiendo conocimientos prácticos y mejorando mis habilidades técnicas.</p>
+        <p><b>PT-BR:</b> Sou um estudante dedicado de ADS e algumas áreas na cibersegurança, o meu amor pela programação e resolução de problemas me trouxe até aqui. Desde o primeiro dia, tenho explorado e aprendido de maneira constante, absorvendo conhecimentos práticos e aprimorando minhas habilidades técnicas.</p>
+        <p><b>ES:</b> Soy un estudiante dedicado de ADS y algunas áreas de ciberseguridad, mi amor por la programación y la resolución de problemas me ha traído hasta aquí. Desde el primer día, he estado explorando y aprendiendo constantemente, absorbiendo conocimientos prácticos y mejorando mis habilidades técnicas.</p>
     </div>
 </body>
+</details>
 
-[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/j%C3%BAlia-marques-18733a224)
+<br>
+
+<!--Redes S-->
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/c4os_000/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/j%C3%BAlia-marques-18733a224)
 
-![Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=zJuliazzZ&show_icons=true&theme=synthwave)
+![Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=zJuliazzZ&show_icons=true&theme=dracula)
+
+
+<!-- Portfolio -->
+
+## Portfolio:
+
+<p>Em breve...</p>
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://static.tumblr.com/629c1af0710b2457e08afe03f3a20990/pujjamc/YPFonsxj9/tumblr_static_filename.gif" alt="Imagem">
+</p>
+
+<!--Skills-->
 
 ### 🔎 Skills 🔎 
 
@@ -30,3 +64,5 @@
     <img aling= "center" alt="Ubutun" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
      <img aling= "center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
+
+---
